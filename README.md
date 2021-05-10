@@ -1,2 +1,3 @@
 # 2d_unity_plane
-2d_unity_plane
+
+這是一個飛機小遊戲，上下左右移動，空白鍵發射子彈
